@@ -1,0 +1,3 @@
+In order to start App run command: "npm run build" then "npm run minter 'address'" As per documentation
+Then hit this URL to run this service "http://localhost:3000/"
+In order to run test case for this run commands: 'npm run build' then 'npm run test' 
